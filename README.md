@@ -16,7 +16,11 @@
     <a href="https://github.com/ruben-olmos?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/ruben-olmos?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
     <a href="https://github.com/ruben-olmos?tab=repositories&language=TeX" target="_blank"><img alt="Html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"></a>
-     <a href="https://github.com/ruben-olmos?tab=repositories&language=TeX" target="_blank"><img alt="css3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"></a>
+     <a href="https://github.com/ruben-olmos?tab=repositories&language=TeX" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"></a>
+ 
+
+
+
     <a href="https://github.com/ruben-olmos?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/ruben-olmos?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/ruben-olmos?tab=repositories&language=TeX" target="_blank"><img alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"></a>

@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://raw.githubusercontent.com/ruben-olmos/ruben-olmos/master/sistine_chapel_banner.png" />
+  <img src="https://raw.githubusercontent.com/ruben-olmos/ruben-olmos/master/sistine_chapel.jpg" />
 </p>
 
 

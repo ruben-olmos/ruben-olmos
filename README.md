@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ruben-olmos/<OWNER>/<OWNER>/readme_header.png "Header")](https://rubenolmos.com/)
+[![Header](https://raw.githubusercontent.com/ruben-olmos/<OWNER>/<OWNER>/sistine_chapel.jpg "Header")](https://rubenolmos.com/)
 
 
 <p align="center">

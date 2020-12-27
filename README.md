@@ -2,7 +2,7 @@
 
 
 <p align="center">
-        <a href="https://github.com/ruben-olmos" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ruben--olmos?style=flat-square&logo=GitHub&logoColor=white"></a>
+        <a href="https://github.com/ruben-olmos" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-ruben--olmos-green?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/ruben-olmos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>

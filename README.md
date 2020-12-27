@@ -20,10 +20,7 @@
     <a href="https://github.com/ruben-olmos?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/ruben-olmos?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/ruben-olmos?tab=repositories&language=TeX" target="_blank"><img alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
- 
- 
- 
- 
+    <a href="https://github.com/ruben-olmos?tab=repositories&language=TeX" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
 </p>
 
 <p align="center">

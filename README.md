@@ -21,6 +21,7 @@
     <a href="https://github.com/ruben-olmos?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/ruben-olmos?tab=repositories&language=mysql" target="_blank"><img alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"></a>
     <a href="https://github.com/ruben-olmos?tab=repositories&language=jupyter+notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=jupyter&logoColor=white" /></a>
+    <a href="https://github.com/ruben-olmos?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=jupyter&logoColor=white" /></a>
 </p>
 
 <p align="center">

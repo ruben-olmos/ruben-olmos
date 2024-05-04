@@ -10,7 +10,7 @@
     <a "https://stackoverflow.com/users/11920824/lambdaepsilon" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
     <a href="https://stackexchange.com/users/16499066/lambdaepsilon" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
 </p>
-
+<!--
 <p align="center">
     <a href="https://github.com/ruben-olmos?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/ruben-olmos?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=Python&logoColor=white"></a>
@@ -23,7 +23,7 @@
     <a href="https://github.com/ruben-olmos?tab=repositories&language=jupyter+notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=jupyter&logoColor=white" /></a>
     <a href="https://github.com/ruben-olmos?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=jupyter&logoColor=white" /></a>
 </p>
-
+-->
 <p align="center">
     <a href="https://github.com/ruben-olmos?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/ruben-olmos" target="_blank"><img alt="ruben-olmos" src="https://badges.pufler.dev/visits/ruben-olmos/ruben-olmos?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>

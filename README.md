@@ -7,8 +7,10 @@
 <p align="center">
         <a href="https://github.com/ruben-olmos" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-%40ruben--olmos-red?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/ruben-olmos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a "https://stackoverflow.com/users/11920824/lambdaepsilon" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
+    <!--
+ <a "https://stackoverflow.com/users/11920824/lambdaepsilon" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
     <a href="https://stackexchange.com/users/16499066/lambdaepsilon" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
+ -->
 </p>
 <!--
 <p align="center">
